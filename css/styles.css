@@ -3,6 +3,11 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+#laptop{
+  background-image: url(../img/backgrounds/s_image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 #logo{
   display: block;
   margin-left: auto;
