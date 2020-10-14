@@ -12,6 +12,11 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+#machinery{
+  background-image: url(../img/backgrounds/c_image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 #logo{
   display: block;
   margin-left: auto;
