@@ -28,4 +28,11 @@ $(document).ready(function () {
       $("img#product").show();
       $("div#prodInfo").hide();
   });
+
+  $('form#feedback').submit(function () {
+    var userName = $("input#name").val();
+    var userEmail = $("input#email").val();
+    var feedback = $("input#message").val();
+    window.alert(userName + "we have received your message. Thank you for contacting us.");
+  });
 });
